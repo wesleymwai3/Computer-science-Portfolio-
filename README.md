@@ -1,19 +1,3 @@
-
-### 2. CPU Scheduling Simulator
-**Language:** Python
-
-Simulates the Round Robin CPU scheduling algorithm.
-
-**Features**
-- Executes processes using a configurable time quantum.
-- Displays the execution order in a Gantt chart.
-- Calculates waiting time and turnaround time.
-- Demonstrates CPU scheduling concepts in operating systems.
-
-**Skills learned:** Process scheduling, loops, dictionaries, functions, and basic algorithm design.
-
-**Future improvements:** Add Priority Scheduling and allow users to enter their own processes.
-
 # Computer Science Portfolio
 
 Welcome to my Computer Science learning portfolio.
@@ -78,3 +62,18 @@ A beginner-friendly program that accepts a student's mark and determines the cor
 
 ## Current Learning Goals
 Build practical projects, document my learning, and develop skills in software development and cybersecurity.
+
+### 2. CPU Scheduling Simulator
+**Language:** Python
+
+Simulates the Round Robin CPU scheduling algorithm.
+
+**Features**
+- Executes processes using a configurable time quantum.
+- Displays the execution order in a Gantt chart.
+- Calculates waiting time and turnaround time.
+- Demonstrates CPU scheduling concepts in operating systems.
+
+**Skills learned:** Process scheduling, loops, dictionaries, functions, and basic algorithm design.
+
+**Future improvements:** Add Priority Scheduling and allow users to enter their own processes
