@@ -30,3 +30,36 @@ I am working through beginner cybersecurity training and authorised practical la
 ## Contact
 GitHub: https://github.com/Wesleymwai3
 
+
+## Projects
+
+### 1. Student Grade Calculator
+**Language:** Python
+
+A beginner-friendly program that accepts a student's mark and determines the corresponding grade.
+
+**Features**
+- Accepts marks from 0 to 100.
+- Assigns grades using conditional statements.
+- Identifies invalid marks.
+- Uses a Python function to calculate grades.
+
+**Example test**
+- Input: `85`
+- Output: `Your grade is: A`
+
+**Skills learned:** Python functions, conditional statements, user input, and basic validation.
+
+**Future improvements:** Add multiple students, calculate average marks, and generate a results report.
+
+---
+
+## Technologies and Areas of Learning
+- Python programming
+- Operating Systems
+- Computer Networks
+- Linux
+- Cybersecurity and ethical hacking
+
+## Current Learning Goals
+Build practical projects, document my learning, and develop skills in software development and cybersecurity.
