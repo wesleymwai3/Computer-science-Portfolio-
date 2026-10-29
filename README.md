@@ -77,3 +77,16 @@ Simulates the Round Robin CPU scheduling algorithm.
 **Skills learned:** Process scheduling, loops, dictionaries, functions, and basic algorithm design.
 
 **Future improvements:** Add Priority Scheduling and allow users to enter their own processes
+
+### 3. Priority Scheduling Simulator
+**Language:** Python
+
+Implements non-preemptive Priority Scheduling for CPU process management.
+
+**Features**
+- Sorts processes by priority.
+- Calculates waiting and turnaround times.
+- Computes average waiting and turnaround times.
+- Demonstrates CPU scheduling concepts.
+
+**Skills learned:** Sorting, dictionaries, functions, and operating system algorithms.
