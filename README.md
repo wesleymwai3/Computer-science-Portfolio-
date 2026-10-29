@@ -90,3 +90,16 @@ Implements non-preemptive Priority Scheduling for CPU process management.
 - Demonstrates CPU scheduling concepts.
 
 **Skills learned:** Sorting, dictionaries, functions, and operating system algorithms.
+
+### 4. Network Diagnostic Tool
+**Language:** Python
+
+A basic tool for checking system information, DNS resolution, and network connectivity.
+
+**Features**
+- Displays operating system information.
+- Resolves hostnames to IP addresses.
+- Attempts a ping connectivity test.
+- Handles common lookup and timeout errors.
+
+**Skills learned:** Python networking, DNS, sockets, subprocesses, and error handling.
